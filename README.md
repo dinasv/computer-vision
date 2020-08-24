@@ -3,7 +3,7 @@
 # Overview 
 This project is part of a Computer Vision course.
 
-In this project, I built several neural netwroks in order to classify the SVHN dataset that contains images of house numbers (0-9).
+In this project, I built several neural networks in order to classify the SVHN dataset that contains images of house numbers (0-9).
 
 I compare between a Fully Connected Network and a Convolutional Neural Network for the task of image classification (spoiler: CNN is much better).
 
